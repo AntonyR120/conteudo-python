@@ -6,6 +6,6 @@
 nome = "Antony"
 salario = 1450.00
 dias_trabalhados = 22
-print("O funcionário é",nome,"(tipo ",type(nome),")")
-print("Ele trabalhou",dias_trabalhados,"dias","(tipo ",type(dias_trabalhados,")")
-print("O salário é",salario,"(tipo: "type(salario),")")
+print("O funcionário é",nome)
+print("Ele trabalhou",dias_trabalhados)
+print("O salário é",salario)
