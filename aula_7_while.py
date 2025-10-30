@@ -7,8 +7,12 @@
 #    print(valor)
 #    valor = valor + 0.5
 
-for numero in range(0,11,1):
-    print(numero)
+#for numero in range(0,11,1):
+#   print(numero)
 
-for letra in "SENAI":
-    print(letra)
+#for letra in "SENAI":
+#    print(letra)
+
+#Saber o tamanho da string ou vetor
+#nome ="Xulofímpola"
+#print(len(nome))
